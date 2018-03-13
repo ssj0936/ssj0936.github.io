@@ -13,6 +13,7 @@ title               : Timothy's Note
 tagline             : 'aaaa_tagline'
 description         : 'Recording What I Learn And What I Like.'
 baseurl             : https://ssj0936.github.io/timothy-s-note/
+base                : https://ssj0936.github.io/timothy-s-note
 
 author              : Timothy Chung
 name                : 'Timothy'
