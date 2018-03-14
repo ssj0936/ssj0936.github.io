@@ -3,7 +3,7 @@ markdown            : kramdown
 redcarpet:
   extensions        : ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
 highlighter         : rouge
-gems                : ["jekyll-paginate"]
+plugins                : ["jekyll-paginate"]
 
 # Permalinks
 permalink           : pretty
@@ -12,13 +12,13 @@ permalink           : pretty
 title               : Timothy's Note
 tagline             : 'aaaa_tagline'
 description         : 'Recording What I Learn And What I Like.'
-baseurl             : https://ssj0936.github.io/
+baseurl             : '/'
 
 author              : Timothy Chung
 name                : 'Timothy'
 url                 : https://ssj0936.github.io/
 facebook_username   : ssj0936
-paginate            : 10
+paginate            : 5
 
 # Custom vars
 version             : 0.1.0
