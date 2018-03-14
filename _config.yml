@@ -12,7 +12,7 @@ permalink           : pretty
 title               : Timothy's Note
 tagline             : 'aaaa_tagline'
 description         : 'Recording What I Learn And What I Like.'
-baseurl             : '/'
+baseurl             : ''
 
 author              : Timothy Chung
 name                : 'Timothy'
