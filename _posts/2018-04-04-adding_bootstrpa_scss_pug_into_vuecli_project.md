@@ -28,7 +28,10 @@ $ cd [project-name]
 * * *
 ## PUG相關
 **PUG**是HTML的模板語言，不用start/end tag
+
 用的是縮排來做階層表示，省去你寫一堆tag的時間
+
+
 
 
 先npm安裝
@@ -106,8 +109,8 @@ import 'bootstrap/dist/css/bootstrap.css';
 想要試看看能不能work，可以把下面的code置換完全覆蓋到HelloWorld.vue
 <script src="https://gist.github.com/ssj0936/e5fc2b8b1f8f63df685d9cc73d4a9cb7.js"></script>
 然後在command line輸入
-
-  $ npm run dev
-
+```
+$ npm run dev
+```
 接著去`http://localhost:8080/`看看成果
 

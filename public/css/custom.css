@@ -13,6 +13,7 @@
 .theme-base-chocolate .sidebar a {
     color: #FFFFFE;
     font-weight: bold;
+    transition: color .2s;
 }
 .theme-base-chocolate .sidebar a:hover {
     color: #EDC2C2;
@@ -25,7 +26,7 @@
     font-size: 2.8rem;
 }
 .theme-base-chocolate .sidebar h1 a:hover {
-    color: #FFFFFE;
+    color: #EDC2C2;
     text-decoration: none;
 }
 .theme-base-chocolate .sidebar-nav {
@@ -41,12 +42,14 @@
 }
 .theme-base-chocolate .list-inline .fa-circle {
     color: rgba(255, 255, 255, 0.5);
+    transition: color .3s;
 }
 .theme-base-chocolate .list-inline a:hover .fa-circle {
     color: #FFFFFE;
 }
 .theme-base-chocolate .list-inline .fa-stack-1x {
     color: #FFFFFE;
+    transition: color .3s;
 }
 .theme-base-chocolate .list-inline a:hover .fa-stack-1x {
     color: #28323C;
@@ -129,6 +132,7 @@
 }
 .theme-base-chocolate .post .post-title a {
     color: #2a363b;
+    transition: color .2s;
 }
 .theme-base-chocolate .post .post-title a:hover {
     text-decoration: none;
@@ -287,6 +291,7 @@
     color: white;
     font-style: normal;
     opacity: 0.7;
+    transition: opacity .2s;
 }
 .theme-base-chocolate .tags:hover {
     opacity: 1;
